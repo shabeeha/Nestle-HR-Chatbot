@@ -99,7 +99,7 @@ A lightweight Gradio layer was added that simply calls `rag_chain.invoke(user_qu
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 2. Open and run the jupyter notebook-
 app.ipynb
 
